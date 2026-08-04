@@ -1,1 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Oceano - Ana Torquato</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Explorando os Oceanos</h1>
+        <p>Curiosidades e maravilhas do mundo marinho com Ana Torquato</p>
+    </header>
+
+    <main>
+        <article>
+            <img src="oceano-profundo.png" alt="Ilustração simples de uma criatura das profundezas marinhas reluzente">
+            <div>
+                <h2>O Mistério das Profundezas</h2>
+                <p class="artigo-autor">Por: Ana Torquato</p>
+                <p>Mais de 80% do nosso oceano permanece inexplorado e não mapeado. Conhecemos melhor a superfície da Lua do que o fundo dos nossos próprios mares!</p>
+                <p class="artigo-fonte">Fonte: National Geographic</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="baleia-azul.png" alt="Ilustração simples de uma baleia azul nadando no mar">
+            <div>
+                <h2>O Gigante dos Mares</h2>
+                <p class="artigo-autor">Por: Ana Torquato</p>
+                <p>A baleia-azul é o maior animal que já existiu no planeta Terra — maior até mesmo do que qualquer dinossauro que já viveu!</p>
+                <p class="artigo-fonte">Fonte: WWF</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="corais.png" alt="Ilustração simples de recifes de corais coloridos">
+            <div>
+                <h2>Berçários da Vida Marinha</h2>
+                <p class="artigo-autor">Por: Ana Torquato</p>
+                <p>Apesar de cobrirem menos de 1% do oceano, os recifes de coral abrigam cerca de 25% de toda a vida marinha do planeta.</p>
+                <p class="artigo-fonte">Fonte: Ocean Conservancy</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="oxigenio-mar.png" alt="Ilustração simples de fitoplâncton flutuando na água">
+            <div>
+                <h2>Quem Produz Nosso Ar?</h2>
+                <p class="artigo-autor">Por: Ana Torquato</p>
+                <p>A maior parte do oxigênio que respiramos vem do oceano! É produzido por minúsculos organismos marinhos chamados fitoplânctons.</p>
+                <p class="artigo-fonte">Fonte: NOAA</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="tubarao.png" alt="Ilustração simples do perfil de um tubarão">
+            <div>
+                <h2>Anciões do Planeta</h2>
+                <p class="artigo-autor">Por: Ana Torquato</p>
+                <p>Os tubarões já existiam na Terra antes mesmo das primeiras árvores e dos dinossauros. Eles habitam os mares há mais de 400 milhões de anos!</p>
+                <p class="artigo-fonte">Fonte: Smithsonian</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+
+        <article>
+            <img src="vulcão-submarino.png" alt="Ilustração simples de um vulcão submarino em atividade">
+            <div>
+                <h2>Fogo Debaixo d'Água</h2>
+                <p class="artigo-autor">Por: Ana Torquato</p>
+                <p>A grande maioria da atividade vulcânica do planeta acontece debaixo d'água! Estima-se que existam milhares de vulcões ativos no fundo do mar.</p>
+                <p class="artigo-fonte">Fonte: UNESCO Ocean</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍 <span>0</span></button>
+            </div>
+        </article>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
